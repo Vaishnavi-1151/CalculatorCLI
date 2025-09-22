@@ -20,5 +20,6 @@ Supports **addition, subtraction, multiplication, and division** with or without
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/CalculatorCLI.git
+   git clone https://github.com/Vaishnavi-1151/CalculatorCLI.git
+
    cd CalculatorCLI
